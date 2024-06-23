@@ -200,5 +200,5 @@ $roomStatus->update([
 
 
 
-
-https://github.com/Rayyzen22/UAS_RayhanArmaNovriansyah_Prak.PemrogramanWebDasar_SID1_2209010160_ketersediaan_kamar
+link github
+https://github.com/KalajengkingIT/UAS_PRAKPEMROGRAMANWEBDASAR_D1_ADETYASAHPUTRA_2209010152_KETERSEDIAAN_KAMAR.git
